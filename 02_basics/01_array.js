@@ -29,12 +29,12 @@ console.log(newarr);
 
 console.log("A ", myarray);
 const myn1 = myarray.slice(1, 3)
-console.log(myn1);
+console.log('sl : ',myn1);
 console.log("B ", myarray);
 
 const myn2 = myarray.splice(1, 3)
 console.log("C ", myarray);
-console.log(myn2);
+console.log('sdp :',myn2);
 
 
 
