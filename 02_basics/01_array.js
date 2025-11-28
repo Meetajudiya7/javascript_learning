@@ -8,12 +8,12 @@ const myarr2 = new Array(1, 2, 3, 4)
 console.log(myarray[0]);
 
 //  Array Mehtods
-// myarray.push(6)
-// myarray.push(7)
-// myarray.pop()
+myarray.push(6)
+myarray.push(7)
+myarray.pop()
 
-// myarray.unshift(9)
-// myarray.shift()
+myarray.unshift(9)
+myarray.shift()
 console.log(myarray);
 
 
